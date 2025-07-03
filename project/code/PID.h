@@ -3,7 +3,6 @@
 
 #include "zf_common_headfile.h"
 
-
 typedef struct {
 	float Target;
 	float Actual;
